@@ -7,6 +7,6 @@ index page
     <title>你好，GitHub</title>
   </head>
   <body>
-    <h1>覺得厲害</h1>
+    <h1>覺得GG</h1>
     git steps
   </body>
